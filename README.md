@@ -1,1 +1,1 @@
-# Data_Science_Trainiing_Python
+# Data_Science_Training_Python
